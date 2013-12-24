@@ -22,7 +22,8 @@ namespace InControl
 			{
 				"Controller (XBOX 360 For Windows)",
 				"Controller (XBOX 360 Wireless Receiver for Windows)",
-				"XBOX 360 For Windows (Controller)"
+				"XBOX 360 For Windows (Controller)",
+				"Controller (Afterglow Gamepad for Xbox 360)"
 			};
 
 			Sensitivity = 1.0f;
