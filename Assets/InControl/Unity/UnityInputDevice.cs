@@ -138,7 +138,11 @@ namespace InControl
 				return false;
 			}
 
-			if (Profile.IsJoystick)
+			if (source == "escape")
+			{
+				 
+			} 
+			else if (Profile.IsJoystick)
 			{
 				source = "joystick " + JoystickId + " " + source;
 			}
