@@ -48,6 +48,12 @@ namespace InControl
 					Handle = "D Key",
 					Target = InputControlType.Action4,
 					Source = "d"
+				},
+				new InputControlButtonMapping()
+				{
+					Handle = "Back",
+					Target = InputControlType.Select,
+					Source = "escape"
 				}
 			};
 
